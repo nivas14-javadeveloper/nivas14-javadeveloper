@@ -1,4 +1,4 @@
-👋 Hi there! I'm [Your Name], an ECE graduate passionate about technology and innovation. I specialize in Java, SQL, and full-stack web development, with hands-on experience in creating dynamic web applications using HTML, CSS, JavaScript, and Bootstrap.
+👋 Hi there! I'm Komatigunta Venkat Nivas, an ECE graduate passionate about technology and innovation. I specialize in Java, SQL, and full-stack web development, with hands-on experience in creating dynamic web applications using HTML, CSS, JavaScript, and Bootstrap.
 
 🌟 My key strengths are hard work, self-motivation, and a commitment to making a positive impact. I've completed exciting projects like an Autonomous Robotic Vehicle with real-time obstacle detection and accident avoidance, showcasing my skills in Arduino and embedded systems.
 
